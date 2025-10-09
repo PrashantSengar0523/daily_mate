@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486061815852",
+    "project_id": "dailymate-ff70d",
+    "storage_bucket": "dailymate-ff70d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486061815852:android:276b1526c4ad53f5b97989",
+        "android_client_info": {
+          "package_name": "com.example.daily_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuyTMdDqwXIcDs2vvzMwC5PcLGS3tKCTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
